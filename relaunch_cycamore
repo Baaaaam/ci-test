@@ -1,0 +1,1 @@
+curl -X POST "https://circleci.com/api/v1.1/project/github/cyclus/cycamore/tree/develop?circle-token=e3f76d5f98e6d79bf9827e235068e0f0c0058219"
